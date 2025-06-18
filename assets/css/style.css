@@ -617,7 +617,7 @@ transform: translateX(-10px);
     display: flex;
     flex-direction: column;
     height: 80px;
-    width: 900px;
+    width: 100%;
   }
 
   .form-group label {
